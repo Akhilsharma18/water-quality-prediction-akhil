@@ -37,4 +37,4 @@ streamlit run app.py
 | Logistic Regression | 76.8% | 0.147 | 0.729 |
 | Random Forest | 94.7% | 0.878 | 0.905 |
 
-Results on real-world data will differ. This is a screening aid, not a replacement for lab testing.
+Results on real-world data will differ. This is a screening aid, not a replacement for lab testing
