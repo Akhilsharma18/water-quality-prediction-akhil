@@ -1,5 +1,5 @@
 {
-  "metrics": {
+  "metrics":{
     "Logistic Regression": {
       "accuracy": 0.7683333333333333,
       "precision": 0.5,
